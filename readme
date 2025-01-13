@@ -5,3 +5,5 @@ These are all the board files needed to print or edit how you see fit.
 As is you can play early genesis games on the pico with this adapter and by adding a controller port to your pico. 
 
 Program used is Eagle. Ive included the part lbr files for the pico connector and the genesis cart connector.
+
+Watch it in action here https://youtu.be/GzeH6SM0dD0
